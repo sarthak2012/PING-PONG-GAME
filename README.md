@@ -1,1 +1,1 @@
-# PING-PONG-GAME using c++
+# it is a  PING-PONG-GAME using c++ concepts
